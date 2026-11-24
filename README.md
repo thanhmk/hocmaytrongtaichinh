@@ -71,6 +71,7 @@ Mỗi thư mục `Module_N` chứa các notebook `L1`, `L2`, ... cùng dữ li�
 | Bài | Tên bài | Notebook | Dữ liệu |
 |---|---|---|---|
 | 7.1 | Lựa chọn mô hình và tinh chỉnh siêu tham số | [Mở trong Colab](https://colab.research.google.com/github/thanhmk/hocmaytrongtaichinh/blob/main/Module_7/L1.ipynb) | tải trực tiếp trong notebook |
+| 7.2 | Dự báo giá nhà và tinh chỉnh siêu tham số | [Mở trong Colab](https://colab.research.google.com/github/thanhmk/hocmaytrongtaichinh/blob/main/Module_7/L2.ipynb) | `kc_house_data.csv` |
 | 7.3 | Đánh giá mô hình và điều chuẩn hóa | [Mở trong Colab](https://colab.research.google.com/github/thanhmk/hocmaytrongtaichinh/blob/main/Module_7/L3.ipynb) | tải trực tiếp trong notebook |
 | 7.4 | Chiến lược giao dịch Bitcoin | [Mở trong Colab](https://colab.research.google.com/github/thanhmk/hocmaytrongtaichinh/blob/main/Module_7/L4.ipynb) | tải trực tiếp trong notebook |
 
@@ -79,4 +80,4 @@ Mỗi thư mục `Module_N` chứa các notebook `L1`, `L2`, ... cùng dữ li�
 - Nhiều notebook lấy giá cổ phiếu, chỉ số hoặc dữ liệu kinh tế trực tiếp từ Yahoo Finance (`yfinance`) và FRED (`pandas_datareader`). Dữ liệu thị trường thay đổi theo thời gian nên số liệu của bạn có thể khác chút ít so với kết quả hiển thị sẵn.
 - Kết quả có yếu tố ngẫu nhiên và phiên bản thư viện khác nhau có thể làm số liệu lệch nhẹ.
 - Bài 5.4 và 6.4 dùng TensorFlow; trên Colab chạy được với cấu hình mặc định.
-- Module 7 chỉ có bài 1, 3, 4, khớp với danh sách bài trên web.
+- Bài 7.2 dùng dữ liệu nhà ở King County (`kc_house_data.csv`, nguồn GeoDa Data and Lab).
